@@ -79,7 +79,6 @@ E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\bin\roslyn\System.Reflection.Me
 E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\bin\roslyn\vbc.exe
 E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\bin\roslyn\VBCSCompiler.exe
 E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\bin\roslyn\VBCSCompiler.exe.config
-E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\bin\jenkinsTest.dll.config
 E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\bin\jenkinsTest.dll
 E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\bin\jenkinsTest.pdb
 E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\bin\Antlr3.Runtime.dll
@@ -133,6 +132,8 @@ E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\bin\Microsoft.Owin.Security.OAu
 E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\bin\Microsoft.Owin.Security.Google.xml
 E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\bin\Microsoft.Owin.Security.Twitter.xml
 E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\obj\Debug\jenkinsTest.csprojResolveAssemblyReference.cache
 E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\obj\Debug\jenkinsTest.dll
 E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\obj\Debug\jenkinsTest.pdb
+E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\obj\Debug\jenkinsTest.csprojAssemblyReference.cache
+E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\obj\Debug\jenkinsTest.csproj.CoreCompileInputs.cache
+E:\Eklos\Offline\testWeb\jenkinsTest\jenkinsTest\obj\Debug\jenkinsTest.csproj.CopyComplete
